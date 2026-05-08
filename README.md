@@ -41,7 +41,7 @@ To run this project locally on your machine (or phone):
    ```bash
    git clone [https://github.com/MSaleemDev/currency-converter.git](https://github.com/MSaleemDev/currency-converter.git)
 
-```
+   ```
  2. **Navigate to the directory:**
    ```bash
    cd currency-converter
