@@ -1,32 +1,41 @@
 # 💱 Currency Converter
 
-A professional, real-time currency conversion application built with a focus on performance, clean UI, and a mobile-first development workflow.
+A professional, real-time currency conversion application built with a focus on performance, clean UI, and a mobile-first engineering workflow.
 
-## 🚀 Overview
+## 🚀 Live Demo
+**Visit the live app:** [currency-converter-by-msaleemdev.vercel.app](https://currency-converter-by-msaleemdev.vercel.app/)
 
-This project provides instant exchange rate conversions using live API data. It features a highly responsive interface designed to work seamlessly across all device sizes, reflecting a modern approach to frontend development.
+---
 
-## live link;
-* **visit:** [https://currency-converter-by-msaleemdev.vercel.app/]
-   
 ## 🛠️ Tech Stack
 
-* **Frontend:** React.js
-* **Styling:** Tailwind CSS v4
+* **Core:** React.js (Hooks, Custom Hooks)
+* **Styling:** Tailwind CSS v4 (Modern Engine)
 * **Icons:** Lucide React
-* **Tooling:** Vite
-* **Development Environment:** Mobile-only (Termux, Acode, Git)
+* **Build Tool:** Vite
+* **Development Environment:** **Mobile-Only** (Termux, Acode, Git)
+
+---
 
 ## ✨ Key Features
 
-* **Live Exchange Rates:** Fetches up-to-the-minute data from a reliable currency API.
-* **Mobile-Optimized:** Built with a utility-first CSS approach for perfect responsiveness.
-* **Dynamic UI:** Instant updates and state management for a smooth user experience.
-* **Professional Workflow:** Developed and deployed entirely using a mobile terminal environment.
+* **Live Exchange Rates:** Fetches up-to-the-minute data from the latest `@fawazahmed0/currency-api`.
+* **Mobile-Optimized:** Built with a utility-first CSS approach for perfect responsiveness on all screens.
+* **Instant Swap:** One-tap logic to switch between "From" and "To" currencies seamlessly.
+* **Precision Handling:** Automatically handles decimal values for accurate financial calculations.
+* **Modern UI:** Features a sleek backdrop-blur card design with a high-quality aesthetic.
+
+---
+
+## 📱 The Mobile-First Philosophy
+
+This project is more than just a converter—it is part of my journey to prove that professional-grade software can be engineered and managed exclusively on a mobile device. By utilizing **Termux** for terminal operations and **Acode** for coding, I maintain a high-level development workflow without a traditional PC setup.
+
+---
 
 ## 📦 Getting Started
 
-To run this project locally:
+To run this project locally on your machine (or phone):
 
 1. **Clone the repository:**
    ```bash
@@ -48,11 +57,12 @@ To run this project locally:
    npm run dev
    
    ```
-## 📱 The Mobile-First Philosophy
-This project is part of my journey to prove that professional-grade software can be engineered and managed exclusively on a mobile device using tools like **Termux** and **Acode**.
 ## 🤝 Connect with Me
  * **GitHub:** @MSaleemDev
- * **LinkedIn:** [https://www.linkedin.com/in/muhammadsaleemdev]
- * **X (Twitter):** [https://x.com/MSaleemDev]
-Licensed under the MIT License.
+ * **LinkedIn:** Muhammad Saleem
+ * **X (Twitter):** @MSaleemDev
+## 📜 License
+This project is licensed under the **MIT License**. Feel free to use it to learn or build your own tools!
 ```
+
+
